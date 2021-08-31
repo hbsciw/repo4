@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="default-repo-icon.png" name="کاردرمانی۴" pubkey="30820503308202eba003020102020460248530300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f7267301e170d3231303833303139333134335a170d3439303131353139333134335a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a02820201009d2129a2cf3ddc4def3276576c2fdbdf33799f23c6b254ec9a4a58cf0480a6fbb69877c6a1a98ba7b0cd4e4d05c2bd72b92aa6ea2d2873fe98267bd004486cd786c58a0478fe798840ba938b8cb639b4385cfdd35fb6d583a60873d3b536d0e3418beeb0e225c022fa3674bed33c9712a3c6a02da3d7b9f2e9db0e93f2508cee74be54739418007499593f90c56c0b3564c20906fc967a31a025840de4ef5716893914517410ea10b2c1ebcf33b93c6a9773c771407950fdc31280d62b1b3596eb6ae6c41ff3a616e2ef0e1eabd8dbb0b3bd9413c19495349c858c3a36dc96c5503f38cd0a92ed5421d044f13607e5c9b2bea5d45a113ca774a686ef5a0dc72e792564d13fe02f664e43ba103ba276a8ca134f9696bd3c02eb6e06ba2a98f23ee2e577df78acd8082e5bd83aecf351392eda7684ae92cc923ff35f28e0990d3357f6be607dfdd677e87cba3bc5c925781f70fa70c882ebd8f0d2a5d17f558222812df64cac1c80c9288c3b48f63e4292c4f0d26a78d2bf044ef11baa61a1152e5920d11642181b82a448edecf42de3ef22646191872bb59bbaa57285551ae96d87208c5951db2c37b4c3dbca39c859df567b7bb48c32f448085ff9b5aacad860b1f44efb33d0935ebfb49b9d966462d5cdc1540604f1968c656bfade68c5f17ba680bc27249bbb850237ec8fbb9683ab3dc711a9cb11afec233f14ef3dcb73a90203010001a321301f301d0603551d0e04160414842b3a1cbe38c3f5515d0e4ec69cd7aeade155a5300d06092a864886f70d01010b0500038202010033462b0912bf75ff8fe1d4974492797a2b3a8bd8b553ceae758071b49aa6e3ce45afa808c4439996e07e9d522023d832d29b0d635b7b9c756bbb4cee31e3bc9075bb0015d55c81f26f72e0d1ee6fec8a0643d37febd904f38176e839e2f75129b5ecdad6412dd043fbd24482c1c90b3412fcc4b1a4471802524ff8cfa4213555892515327ea2ae63a5c0c2eaf40af49aaf29e029dd7059d1c31d1f257e1f0ba4f118754ccb50b427466dbdeab70cbb87bdaf15aab9eee90c4096604458e0b85409472c85544f5a0987de597429cd43a9e6a30df0adbdf9ce1d29108f332cb175ed96c4f3a31d95b66554f175e4793ae345615f398e6e9838a94e3c6cfc27fa2b3d3e23c43c250526665067f2a8944ceedb0d767470f5991802a7d785dd7c45bce816012da878cc9fa3030be18db902325a949584ca946f12a5a1b6d92c410d8e098bcdfd0276afa0d836ff45097a13069cad203f6adb9ed5aee424d8b2410913dbe7ebb9d08b5969a9a0703f47d5f28682dea408e1816397571dc51a08cc4ad7f5f2bf07331fe73e2a94dc04b7764cbd51ae0de6d2e6b8bd80a8e3beaf7348faee95c671f074a85a51012fdd16dc27c40e16588800e89547188982a2b8be92bb75c8a2e370b6af70780df20707059d9a3f419b4f150b86d33da7e1231997661dca3a43ccd3333b4bff56cefcad62a6beaeacc483c9ecc5d36da8d9888404c74a" timestamp="1630369919" url="https://github.com/hbsciw/repo4/raw/master/fdroid/repo" version="21">
+		<description>کاردرمانی۴</description>
+		<mirror>https://github.com/hbsciw/repo4/raw/master/fdroid/repo/repo</mirror>
+	</repo>
+	<application id="air.com.winkypinky.kittykateunicorndailycaring">
+		<id>air.com.winkypinky.kittykateunicorndailycaring</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-31</lastupdated>
+		<name>Kitty Kate Unicorn Daily Caring</name>
+		<summary></summary>
+		<icon>air.com.winkypinky.kittykateunicorndailycaring.1000003.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>1000003</marketvercode>
+		<package>
+			<version>1.0.3</version>
+			<versioncode>1000003</versioncode>
+			<apkname>o.apk</apkname>
+			<hash type="sha256">e3aba497f0d9a1c053162aaccfdc2393c85b6748876a79179d2c7146cbcbddd8</hash>
+			<size>61278905</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-08-31</added>
+			<sig>2b4932f870d8b331e376f21e78828e40</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BILLING,INTERNET,READ_PHONE_STATE,com.android.vending.BILLING</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+	</application>
+	<application id="com.oki.colors">
+		<id>com.oki.colors</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-31</lastupdated>
+		<name>Learning Colors</name>
+		<summary></summary>
+		<icon>com.oki.colors.4003026.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>4003026</marketvercode>
+		<package>
+			<version>4.3.26</version>
+			<versioncode>4003026</versioncode>
+			<apkname>p.apk</apkname>
+			<hash type="sha256">3dcdbc918f4f72a00d818c598ca16ed6c820be0a4ebaac159cbfc9254ce07a7c</hash>
+			<size>78767074</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2021-08-31</added>
+			<sig>bc3c50a10fe632e6cb05e7370b35e90c</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="18" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+	</application>
+	<application id="com.gokids.shapes2">
+		<id>com.gokids.shapes2</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-31</lastupdated>
+		<name>Learning Shapes</name>
+		<summary></summary>
+		<icon>com.gokids.shapes2.1000004.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>1000004</marketvercode>
+		<package>
+			<version>1.0.4</version>
+			<versioncode>1000004</versioncode>
+			<apkname>q.apk</apkname>
+			<hash type="sha256">25e675890305435996d0cd18f9cf1a7042f319a673c1f656b77cc466dc625b42</hash>
+			<size>24782521</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2021-08-31</added>
+			<sig>bc3c50a10fe632e6cb05e7370b35e90c</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK,com.android.vending.BILLING,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+	</application>
+	<application id="by.ai91.lyfoes">
+		<id>by.ai91.lyfoes</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-31</lastupdated>
+		<name>Lyfoes</name>
+		<summary></summary>
+		<icon>by.ai91.lyfoes.10715.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>10715</marketvercode>
+		<package>
+			<version>1.4.71.ai91.5</version>
+			<versioncode>10715</versioncode>
+			<apkname>n.apk</apkname>
+			<hash type="sha256">6e1dc7b3777b94e7eae15cffd56e490a118e376c6fb28420b9c254ede2a5827a</hash>
+			<size>11732426</size>
+			<sdkver>18</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2021-08-31</added>
+			<sig>34e2c21f3c66f2c3cd9e1573bc5f330f</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE</permissions>
+		</package>
+	</application>
+	<application id="com.amayasoft.toddler.learning.baby.games">
+		<id>com.amayasoft.toddler.learning.baby.games</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-31</lastupdated>
+		<name>MingleMangle</name>
+		<summary></summary>
+		<icon>com.amayasoft.toddler.learning.baby.games.5.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>5</marketvercode>
+		<package>
+			<version>1.0.0</version>
+			<versioncode>5</versioncode>
+			<apkname>Kidsgames_com.amayasoft.toddler.learning.baby.games.apk</apkname>
+			<hash type="sha256">7520a617a7ba6125cf3233448bcb1e8bce69cefb76df51e00ac683dbee082360</hash>
+			<size>57720598</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2021-08-31</added>
+			<sig>deb5a233c6cf53a2e67058b6941dfaff</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,com.android.vending.BILLING</permissions>
+			<nativecode>armeabi-v7a,x86</nativecode>
+		</package>
+	</application>
+	<application id="zeka.upg.school_games_child">
+		<id>zeka.upg.school_games_child</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-31</lastupdated>
+		<name>Pre-school education </name>
+		<summary></summary>
+		<icon>zeka.upg.school_games_child.3.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>3</marketvercode>
+		<package>
+			<version>3.0</version>
+			<versioncode>3</versioncode>
+			<apkname>Pre-schooleducation_zeka.upg.school_games_child.apk</apkname>
+			<hash type="sha256">6834dbb0e7e99a35ab9d0d20fe6a731eed20f3c06093d6bfbcb4b3a0c0f8e37a</hash>
+			<size>25820943</size>
+			<sdkver>17</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-08-31</added>
+			<sig>459598f8ee2cb336a4bffa7612100452</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+</fdroid>
