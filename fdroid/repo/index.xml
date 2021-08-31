@@ -1,17 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="default-repo-icon.png" name="کاردرمانی۴" pubkey="30820503308202eba003020102020460248530300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f7267301e170d3231303833303139333134335a170d3439303131353139333134335a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a02820201009d2129a2cf3ddc4def3276576c2fdbdf33799f23c6b254ec9a4a58cf0480a6fbb69877c6a1a98ba7b0cd4e4d05c2bd72b92aa6ea2d2873fe98267bd004486cd786c58a0478fe798840ba938b8cb639b4385cfdd35fb6d583a60873d3b536d0e3418beeb0e225c022fa3674bed33c9712a3c6a02da3d7b9f2e9db0e93f2508cee74be54739418007499593f90c56c0b3564c20906fc967a31a025840de4ef5716893914517410ea10b2c1ebcf33b93c6a9773c771407950fdc31280d62b1b3596eb6ae6c41ff3a616e2ef0e1eabd8dbb0b3bd9413c19495349c858c3a36dc96c5503f38cd0a92ed5421d044f13607e5c9b2bea5d45a113ca774a686ef5a0dc72e792564d13fe02f664e43ba103ba276a8ca134f9696bd3c02eb6e06ba2a98f23ee2e577df78acd8082e5bd83aecf351392eda7684ae92cc923ff35f28e0990d3357f6be607dfdd677e87cba3bc5c925781f70fa70c882ebd8f0d2a5d17f558222812df64cac1c80c9288c3b48f63e4292c4f0d26a78d2bf044ef11baa61a1152e5920d11642181b82a448edecf42de3ef22646191872bb59bbaa57285551ae96d87208c5951db2c37b4c3dbca39c859df567b7bb48c32f448085ff9b5aacad860b1f44efb33d0935ebfb49b9d966462d5cdc1540604f1968c656bfade68c5f17ba680bc27249bbb850237ec8fbb9683ab3dc711a9cb11afec233f14ef3dcb73a90203010001a321301f301d0603551d0e04160414842b3a1cbe38c3f5515d0e4ec69cd7aeade155a5300d06092a864886f70d01010b0500038202010033462b0912bf75ff8fe1d4974492797a2b3a8bd8b553ceae758071b49aa6e3ce45afa808c4439996e07e9d522023d832d29b0d635b7b9c756bbb4cee31e3bc9075bb0015d55c81f26f72e0d1ee6fec8a0643d37febd904f38176e839e2f75129b5ecdad6412dd043fbd24482c1c90b3412fcc4b1a4471802524ff8cfa4213555892515327ea2ae63a5c0c2eaf40af49aaf29e029dd7059d1c31d1f257e1f0ba4f118754ccb50b427466dbdeab70cbb87bdaf15aab9eee90c4096604458e0b85409472c85544f5a0987de597429cd43a9e6a30df0adbdf9ce1d29108f332cb175ed96c4f3a31d95b66554f175e4793ae345615f398e6e9838a94e3c6cfc27fa2b3d3e23c43c250526665067f2a8944ceedb0d767470f5991802a7d785dd7c45bce816012da878cc9fa3030be18db902325a949584ca946f12a5a1b6d92c410d8e098bcdfd0276afa0d836ff45097a13069cad203f6adb9ed5aee424d8b2410913dbe7ebb9d08b5969a9a0703f47d5f28682dea408e1816397571dc51a08cc4ad7f5f2bf07331fe73e2a94dc04b7764cbd51ae0de6d2e6b8bd80a8e3beaf7348faee95c671f074a85a51012fdd16dc27c40e16588800e89547188982a2b8be92bb75c8a2e370b6af70780df20707059d9a3f419b4f150b86d33da7e1231997661dca3a43ccd3333b4bff56cefcad62a6beaeacc483c9ecc5d36da8d9888404c74a" timestamp="1630369919" url="https://github.com/hbsciw/repo4/raw/master/fdroid/repo" version="21">
+	<repo icon="default-repo-icon.png" name="کاردرمانی۴" pubkey="30820503308202eba003020102020460248530300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f7267301e170d3231303833303139333134335a170d3439303131353139333134335a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a02820201009d2129a2cf3ddc4def3276576c2fdbdf33799f23c6b254ec9a4a58cf0480a6fbb69877c6a1a98ba7b0cd4e4d05c2bd72b92aa6ea2d2873fe98267bd004486cd786c58a0478fe798840ba938b8cb639b4385cfdd35fb6d583a60873d3b536d0e3418beeb0e225c022fa3674bed33c9712a3c6a02da3d7b9f2e9db0e93f2508cee74be54739418007499593f90c56c0b3564c20906fc967a31a025840de4ef5716893914517410ea10b2c1ebcf33b93c6a9773c771407950fdc31280d62b1b3596eb6ae6c41ff3a616e2ef0e1eabd8dbb0b3bd9413c19495349c858c3a36dc96c5503f38cd0a92ed5421d044f13607e5c9b2bea5d45a113ca774a686ef5a0dc72e792564d13fe02f664e43ba103ba276a8ca134f9696bd3c02eb6e06ba2a98f23ee2e577df78acd8082e5bd83aecf351392eda7684ae92cc923ff35f28e0990d3357f6be607dfdd677e87cba3bc5c925781f70fa70c882ebd8f0d2a5d17f558222812df64cac1c80c9288c3b48f63e4292c4f0d26a78d2bf044ef11baa61a1152e5920d11642181b82a448edecf42de3ef22646191872bb59bbaa57285551ae96d87208c5951db2c37b4c3dbca39c859df567b7bb48c32f448085ff9b5aacad860b1f44efb33d0935ebfb49b9d966462d5cdc1540604f1968c656bfade68c5f17ba680bc27249bbb850237ec8fbb9683ab3dc711a9cb11afec233f14ef3dcb73a90203010001a321301f301d0603551d0e04160414842b3a1cbe38c3f5515d0e4ec69cd7aeade155a5300d06092a864886f70d01010b0500038202010033462b0912bf75ff8fe1d4974492797a2b3a8bd8b553ceae758071b49aa6e3ce45afa808c4439996e07e9d522023d832d29b0d635b7b9c756bbb4cee31e3bc9075bb0015d55c81f26f72e0d1ee6fec8a0643d37febd904f38176e839e2f75129b5ecdad6412dd043fbd24482c1c90b3412fcc4b1a4471802524ff8cfa4213555892515327ea2ae63a5c0c2eaf40af49aaf29e029dd7059d1c31d1f257e1f0ba4f118754ccb50b427466dbdeab70cbb87bdaf15aab9eee90c4096604458e0b85409472c85544f5a0987de597429cd43a9e6a30df0adbdf9ce1d29108f332cb175ed96c4f3a31d95b66554f175e4793ae345615f398e6e9838a94e3c6cfc27fa2b3d3e23c43c250526665067f2a8944ceedb0d767470f5991802a7d785dd7c45bce816012da878cc9fa3030be18db902325a949584ca946f12a5a1b6d92c410d8e098bcdfd0276afa0d836ff45097a13069cad203f6adb9ed5aee424d8b2410913dbe7ebb9d08b5969a9a0703f47d5f28682dea408e1816397571dc51a08cc4ad7f5f2bf07331fe73e2a94dc04b7764cbd51ae0de6d2e6b8bd80a8e3beaf7348faee95c671f074a85a51012fdd16dc27c40e16588800e89547188982a2b8be92bb75c8a2e370b6af70780df20707059d9a3f419b4f150b86d33da7e1231997661dca3a43ccd3333b4bff56cefcad62a6beaeacc483c9ecc5d36da8d9888404c74a" timestamp="1630393220" url="https://github.com/hbsciw/repo4/raw/master/fdroid/repo" version="21">
 		<description>کاردرمانی۴</description>
 		<mirror>https://github.com/hbsciw/repo4/raw/master/fdroid/repo/repo</mirror>
 	</repo>
+	<application id="com.sinyee.babybus.world">
+		<id>com.sinyee.babybus.world</id>
+		<added>2021-08-31</added>
+		<lastupdated>2021-08-31</lastupdated>
+		<name>Baby Panda World</name>
+		<summary></summary>
+		<icon>com.sinyee.babybus.world.8393201.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>8393201</marketvercode>
+		<package>
+			<version>8.39.32.01</version>
+			<versioncode>8393201</versioncode>
+			<apkname>4_5865977229485280074.apk.apk</apkname>
+			<hash type="sha256">78f42d45dc178e88550aeb68037f461b818efab422b18116bcb145bda3632805</hash>
+			<size>86585848</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-08-31</added>
+			<sig>ebdec8bddd16785d6996ad1e57ed84a8</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+	</application>
 	<application id="air.com.winkypinky.kittykateunicorndailycaring">
 		<id>air.com.winkypinky.kittykateunicorndailycaring</id>
 		<added>2021-08-30</added>
 		<lastupdated>2021-08-31</lastupdated>
 		<name>Kitty Kate Unicorn Daily Caring</name>
-		<summary></summary>
+		<summary>اموزش ADL ، تقویت حل مسئله،بهبود توجه، تقویت vigilance(گوش به زنگی) ، بهبودreaction time</summary>
 		<icon>air.com.winkypinky.kittykateunicorndailycaring.1000003.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>اموزش ADL ، تقویت حل مسئله،بهبود توجه، تقویت vigilance(گوش به زنگی) ، بهبودreaction time</desc>
 		<license>Unknown</license>
 		<web></web>
 		<source></source>
@@ -37,9 +65,9 @@
 		<added>2021-08-30</added>
 		<lastupdated>2021-08-31</lastupdated>
 		<name>Learning Colors</name>
-		<summary></summary>
+		<summary>شناخت رنگ، شناخت مفهوم هم رنگی ها، شناخت حیوانات، شناخت میوه ها،بهبود توجه،هماهنگی چشم و دست</summary>
 		<icon>com.oki.colors.4003026.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>شناخت رنگ، شناخت مفهوم هم رنگی ها، شناخت حیوانات، شناخت میوه ها،بهبود توجه،هماهنگی چشم و دست</desc>
 		<license>Unknown</license>
 		<web></web>
 		<source></source>
@@ -67,9 +95,9 @@
 		<added>2021-08-30</added>
 		<lastupdated>2021-08-31</lastupdated>
 		<name>Learning Shapes</name>
-		<summary></summary>
+		<summary>آموزش اشکال، تقویت visual perception(اکمال دیداری)، شناخت اندازه(مفهوم بزرگ و کوچک)</summary>
 		<icon>com.gokids.shapes2.1000004.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>آموزش اشکال، تقویت visual perception(اکمال دیداری)، شناخت اندازه(مفهوم بزرگ و کوچک)</desc>
 		<license>Unknown</license>
 		<web></web>
 		<source></source>
@@ -95,9 +123,9 @@
 		<added>2021-08-30</added>
 		<lastupdated>2021-08-31</lastupdated>
 		<name>Lyfoes</name>
-		<summary></summary>
+		<summary>تقویت مهارت problem solving ، شناخت رنگ ،شناخت مفهوم هم رنگی</summary>
 		<icon>by.ai91.lyfoes.10715.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>تقویت مهارت problem solving ، شناخت رنگ ،شناخت مفهوم هم رنگی</desc>
 		<license>Unknown</license>
 		<web></web>
 		<source></source>
@@ -150,9 +178,9 @@
 		<added>2021-08-30</added>
 		<lastupdated>2021-08-31</lastupdated>
 		<name>Pre-school education </name>
-		<summary></summary>
+		<summary>تقویت حافظه( حافظه دیداری،حافظه کاری، حافظه کوتاه مدت) شناخت حیوانات، شناخت میوه ها، شناخت مشاغل</summary>
 		<icon>zeka.upg.school_games_child.3.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>تقویت حافظه( حافظه دیداری،حافظه کاری، حافظه کوتاه مدت) شناخت حیوانات، شناخت میوه ها، شناخت مشاغل</desc>
 		<license>Unknown</license>
 		<web></web>
 		<source></source>
